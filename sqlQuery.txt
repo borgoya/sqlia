@@ -1,0 +1,25 @@
+SELECT * FROM HELLO12 WHERE user_id = "probhat" and password = "123";
+SELECT * FROM user WHERE User_Name='Mariya Sharapova' and password=convert(select host from host);
+SELECT account  FROM users  WHERE User_Name=" or 1=1-' and password=";
+SELECT * FROM user WHERE User_Name='' and PASSWORD='' UNION SELECT balance FROM ACCOUNT where acc_no='5609876' ;
+SELECT * FROM users WHERE User_Name='Mariya Sharapova' and PASSWORD=''; DROP TABLE user;
+SELECT account  FROM users  WHERE User_Name='';SHUTDOWN;PASSWORD='';
+SELECT User_code  FROM user  WHERE User_Name="Mariya Sharapova" and PASSWORD='' OR 1=1;
+SELECT salary,phone,address,designation FROM users WHERE login='' UNION SELECT balance FROM account where USR_CODE=564;
+SELECT account  FROM users  WHERE User_Name='';SHUTDOWN;PASSWORD='' OR 1=1;
+SELECT salary,phone,address,designation FROM users WHERE User_Name="David O' Brian" and PASSWORD=" 123-321@securedcode ";
+SELECT * FROM users WHERE user_id = "Probhat*&^" and password = "123";
+SELECT salary,phone,address,designation FROM users WHERE  User_Name= " Sachin "  and PASSWORD=" @dreamlandmitshibishi@ ";
+SELECT * FROM user WHERE User_Name='' and PASSWORD=' passcode_password ' UNION SELECT balance FROM ACCOUNT where acc_no='78560'
+SELECT data FROM user WHERE Email_input= 'Y'; UPDATE table SET email = 'hacker@ymail.com' WHERE email = 'joe@ymail.com';
+SELECT data FROM user WHERE email= 'joe@ymail.com''; UPDATE table SET email = 'hacker@ymail.com' WHERE email = 'joe@ymail.com';
+SELECT data FROM user WHERE email= 'Y'; UPDATE table SET email = 'hacker@ymail.com' WHERE email = 'joe@ymail.com' or 'joy@xmail.com' or 1=1 ;
+SELECT account  FROM users  WHERE User_Name=" or 1=1-' and password=" 'this_is_quoted_password' ";
+SELECT account  FROM users  WHERE User_Name=" or 1=1-' and password=" ' ";
+SELECT employee_name  FROM Employee  WHERE Employee_age = " or 1=1--' and password=" this won't work ";
+SELECT mail  FROM users  WHERE user_name=" patrick_cosby.90 " or 1=1-' and password="       ";
+SELECT * FROM server1 WHERE root_id = "ADMIN" and password = " @#$123-321@secure_code ";
+SELECT coloumn1,coloumn2,coloumn3 FROM Table100 WHERE user_id = " David O'Brian " and password = " __ ";
+SELECT * FROM users WHERE user_id = " User1' " and password = "001100";
+SELECT * FROM users WHERE user_id = " User1 " and password = "001100";
+SELECT * FROM user WHERE User_name=' ' ' and PASSWORD=' passcode_password ' UNION SELECT Balance FROM ACCOUNT where Acc_No='98ACB_SBI' and Serial_No="XX##14ACBSBI" ;
